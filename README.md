@@ -1,5 +1,8 @@
 # Conditional DETR
 
+## First of All
+
+**Although GitHub declares that it stands with Ukraine, I have no political position at all.**
 
 ## Installation
 
