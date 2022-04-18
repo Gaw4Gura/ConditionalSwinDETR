@@ -1,4 +1,4 @@
-# Conditional DETR
+# Conditional Swin DETR
 
 ## First of All
 
